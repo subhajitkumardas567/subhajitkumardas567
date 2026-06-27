@@ -32,7 +32,7 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,nodejs,git,github,vscode,arduino,linux,tensorflow,npm,mongodb&perline=15" alt="Languages and Tools"/>
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,react,nodejs,git,github,vscode,arduino,tensorflow,npm,mongodb,postgres,idea,aws,java&perline=9" alt="Languages and Tools"/>
 </div>
 
 ---
