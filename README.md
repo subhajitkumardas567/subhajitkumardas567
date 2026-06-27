@@ -50,7 +50,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🌱 Currently Exploring
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-%230db7ed.svg?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
@@ -83,14 +82,6 @@
 
 ---
 
-## 🔬 Featured Project
-
-> 🏅 **Smart Jacket for Coal Mine Workers** *(Patent Holder)*
->
-> An IoT-enabled smart wearable device designed to monitor environmental hazards (gas levels, temperature, humidity) in coal mines in real time — alerting workers and supervisors to prevent accidents and save lives.
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -103,10 +94,6 @@
 
 <div align="center">
 
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
-
 <br/>
-
-⭐ **If you like my work, consider starring my repos!** ⭐
 
 </div>
