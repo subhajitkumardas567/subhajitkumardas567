@@ -26,9 +26,6 @@
 - 🎓 B.Tech ECE Student at **JIS College of Engineering**
 - 💻 Learning **Full Stack Development**
 - 🚀 Interested in **AI, IoT and Software Development**
-- 🏆 **Patent Holder** — Smart Jacket for Coal Mine Workers
-- 📚 Currently learning **DSA** and **React**
-- 📍 Based in **West Bengal, India**
 
 ---
 
