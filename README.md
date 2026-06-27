@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=subhajitkumardas567&icon=5&color=6" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=subhajitkumardas567&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Visitors"/>
 </div>
 
 ---
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=subhajitkumardas567&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=subhajitkumardas567&theme=darkhub&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies"/>
 
 </div>
 
